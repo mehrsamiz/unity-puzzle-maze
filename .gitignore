@@ -1,0 +1,23 @@
+# --- Unity generated cache folders ---
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Pp]ackages/lock.json
+[Uu]serSettings/
+
+# --- Visual Studio / IDE files ---
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+
+# --- Build targets ---
+[Bb]uild/
+[Bb]uilds/
+
+# --- Font files ---
+*.ttf
+*.otf

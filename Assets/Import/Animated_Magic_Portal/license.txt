@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Magic Portal
+* source:	https://sketchfab.com/3d-models/animated-magic-portal-0905b653cd7d4d71ba094c0250223228
+* author:	michi12349876 (https://sketchfab.com/michi12349876)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Magic Portal" (https://sketchfab.com/3d-models/animated-magic-portal-0905b653cd7d4d71ba094c0250223228) by michi12349876 (https://sketchfab.com/michi12349876) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

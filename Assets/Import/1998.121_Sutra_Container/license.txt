@@ -1,0 +1,8 @@
+Model Information:
+* title:	1998.121 Sutra Container
+* source:	https://sketchfab.com/3d-models/1998121-sutra-container-78cc985792ef4170b3f5d86af04c8e86
+* author:	Cleveland Museum of Art (https://sketchfab.com/clevelandart)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Energy Gate
+* source:	https://sketchfab.com/3d-models/futuristic-energy-gate-f3647cb161624a47a44dbc8452feb129
+* author:	wojteX (https://sketchfab.com/wojteX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Energy Gate" (https://sketchfab.com/3d-models/futuristic-energy-gate-f3647cb161624a47a44dbc8452feb129) by wojteX (https://sketchfab.com/wojteX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
